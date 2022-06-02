@@ -49,5 +49,10 @@
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "gh-pages": "^4.0.0"
+  },
+  "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
   }
+  
 }
